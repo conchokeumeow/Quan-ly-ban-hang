@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\MyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|C:\\Users\\ASUS\\source\\repos\\MyApp\\myapp\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|C:\\Users\\ASUS\\source\\repos\\MyApp\\myapp\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\frmnhapsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmnhapsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\frmnokh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmnokh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|C:\\Users\\ASUS\\source\\repos\\MyApp\\myapp\\frmnhapsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmnhapsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|C:\\Users\\ASUS\\source\\repos\\MyApp\\myapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|C:\\Users\\ASUS\\source\\repos\\MyApp\\myapp\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|C:\\Users\\ASUS\\source\\repos\\MyApp\\myapp\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|C:\\Users\\ASUS\\source\\repos\\MyApp\\myapp\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\dnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\dnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|C:\\Users\\ASUS\\source\\repos\\MyApp\\myapp\\dnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\dnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|C:\\Users\\ASUS\\source\\repos\\MyApp\\myapp\\frmnokh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmnokh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|C:\\Users\\ASUS\\source\\repos\\MyApp\\myapp\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|C:\\Users\\ASUS\\source\\repos\\MyApp\\myapp\\frmnoncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmnoncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\frmnhacungcap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmnhacungcap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\frmnoncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmnoncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|C:\\Users\\ASUS\\source\\repos\\MyApp\\myapp\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\myapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\myapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|c:\\users\\asus\\source\\repos\\myapp\\myapp\\frmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|C:\\Users\\ASUS\\source\\repos\\MyApp\\myapp\\frmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89F5F9EE-210E-4845-8DF0-C9EBE9815DE1}|MyApp\\MyApp.csproj|solutionrelative:myapp\\frmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmNhapSP.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNhapSP.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmNhapSP.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNhapSP.cs",
+              "RelativeToolTip": "MyApp\\frmNhapSP.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:01:35.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmNhaCungCap.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNhaCungCap.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmNhaCungCap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNhaCungCap.cs",
+              "RelativeToolTip": "MyApp\\frmNhaCungCap.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAWwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:54:46.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmDonHang.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmDonHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmDonHang.cs",
+              "RelativeToolTip": "MyApp\\frmDonHang.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAewHkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:46:29.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmNoKH.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNoKH.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmNoKH.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNoKH.cs",
+              "RelativeToolTip": "MyApp\\frmNoKH.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAWwJMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:41:02.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\Program.cs",
+              "RelativeToolTip": "MyApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:54:06.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmNhapHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNhapHang.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmNhapHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNhapHang.cs",
+              "RelativeToolTip": "MyApp\\frmNhapHang.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAjwA4AAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:16:02.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmKhachHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmKhachHang.cs",
+              "RelativeToolTip": "MyApp\\frmKhachHang.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAswCEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:10:53.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DNhap.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\DNhap.cs",
+              "RelativeDocumentMoniker": "MyApp\\DNhap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\DNhap.cs",
+              "RelativeToolTip": "MyApp\\DNhap.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:50:50.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmMain.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmMain.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmMain.cs",
+              "RelativeToolTip": "MyApp\\frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:49:03.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmNhaCungCap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNhaCungCap.Designer.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmNhaCungCap.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNhaCungCap.Designer.cs",
+              "RelativeToolTip": "MyApp\\frmNhaCungCap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:21:54.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BanHang.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\BanHang.cs",
+              "RelativeDocumentMoniker": "MyApp\\BanHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\BanHang.cs",
+              "RelativeToolTip": "MyApp\\BanHang.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:33:42.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmNoNCC.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNoNCC.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmNoNCC.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNoNCC.cs",
+              "RelativeToolTip": "MyApp\\frmNoNCC.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:51:02.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmSanPham.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmSanPham.cs",
+              "RelativeToolTip": "MyApp\\frmSanPham.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:00:51.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MyApp.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\MyApp.csproj",
+              "RelativeDocumentMoniker": "MyApp\\MyApp.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\MyApp.csproj",
+              "RelativeToolTip": "MyApp\\MyApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T19:16:39.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmCalculator.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmCalculator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmCalculator.cs",
+              "RelativeToolTip": "MyApp\\frmCalculator.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAewCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:31:36.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDonHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmDonHang.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmDonHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmDonHang.cs [Design]",
+              "RelativeToolTip": "MyApp\\frmDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:12:04.542Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\BanHang.cs",
+              "RelativeDocumentMoniker": "MyApp\\BanHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\BanHang.cs [Design]",
+              "RelativeToolTip": "MyApp\\BanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:20:55.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmNhapSP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNhapSP.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmNhapSP.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNhapSP.cs [Design]",
+              "RelativeToolTip": "MyApp\\frmNhapSP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:30:26.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmMain.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmMain.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmMain.cs [Design]",
+              "RelativeToolTip": "MyApp\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:40:02.783Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmKhachHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "MyApp\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:32:36.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmNhaCungCap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNhaCungCap.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmNhaCungCap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNhaCungCap.cs [Design]",
+              "RelativeToolTip": "MyApp\\frmNhaCungCap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:21:56.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmNhapHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNhapHang.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmNhapHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNhapHang.cs [Design]",
+              "RelativeToolTip": "MyApp\\frmNhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:46:34.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\DNhap.cs",
+              "RelativeDocumentMoniker": "MyApp\\DNhap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\DNhap.cs [Design]",
+              "RelativeToolTip": "MyApp\\DNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:09:13.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmNoKH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNoKH.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmNoKH.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNoKH.cs [Design]",
+              "RelativeToolTip": "MyApp\\frmNoKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:27:09.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmSanPham.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "MyApp\\frmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:26:23.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmNoNCC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNoNCC.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmNoNCC.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmNoNCC.cs [Design]",
+              "RelativeToolTip": "MyApp\\frmNoNCC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:45:51.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmBanHang.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmBanHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmBanHang.cs [Design]",
+              "RelativeToolTip": "MyApp\\frmBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:29:09.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmCalculator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmCalculator.cs",
+              "RelativeDocumentMoniker": "MyApp\\frmCalculator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyApp\\MyApp\\frmCalculator.cs [Design]",
+              "RelativeToolTip": "MyApp\\frmCalculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:31:10.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
